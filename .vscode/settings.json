@@ -1,0 +1,9 @@
+{
+    "python.autoComplete.extraPaths": [
+        "Minecraft-Protocol"
+    ],
+    "python.analysis.extraPaths": [
+        "Minecraft-Protocol"
+    ],
+    "python.pythonPath": "C:\\Python39\\python.exe"
+}

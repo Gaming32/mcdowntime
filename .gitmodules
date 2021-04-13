@@ -1,0 +1,3 @@
+[submodule "Minecraft-Protocol"]
+	path = Minecraft-Protocol
+	url = https://github.com/gaming32/Minecraft-Protocol
